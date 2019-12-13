@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageHandling", "ImageHandling\vc2015\ImageHandling.vcxproj", "{145725EF-7E7F-464F-A5D9-FD2614FACB91}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BrigthnessContrastApp", "BrigthnessContrastApp\vc2015\BrigthnessContrastApp.vcxproj", "{E8647FAC-7D2A-4454-8A54-B3D03AEADF3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{145725EF-7E7F-464F-A5D9-FD2614FACB91}.Debug|x86.Build.0 = Debug|Win32
 		{145725EF-7E7F-464F-A5D9-FD2614FACB91}.Release|x86.ActiveCfg = Release|Win32
 		{145725EF-7E7F-464F-A5D9-FD2614FACB91}.Release|x86.Build.0 = Release|Win32
+		{E8647FAC-7D2A-4454-8A54-B3D03AEADF3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8647FAC-7D2A-4454-8A54-B3D03AEADF3D}.Debug|x86.Build.0 = Debug|Win32
+		{E8647FAC-7D2A-4454-8A54-B3D03AEADF3D}.Release|x86.ActiveCfg = Release|Win32
+		{E8647FAC-7D2A-4454-8A54-B3D03AEADF3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
