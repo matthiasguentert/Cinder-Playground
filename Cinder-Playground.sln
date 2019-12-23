@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FallingLetters", "FallingLe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FaceDetection", "FaceDetection\vc2015\FaceDetection.vcxproj", "{631F13DE-53DF-4D31-9009-B32F90C7A51C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animation", "Animation\vc2015\Animation.vcxproj", "{B6BE9981-A732-40D9-91B9-AC536221320F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -33,6 +35,10 @@ Global
 		{631F13DE-53DF-4D31-9009-B32F90C7A51C}.Debug|x86.Build.0 = Debug|Win32
 		{631F13DE-53DF-4D31-9009-B32F90C7A51C}.Release|x86.ActiveCfg = Release|Win32
 		{631F13DE-53DF-4D31-9009-B32F90C7A51C}.Release|x86.Build.0 = Release|Win32
+		{B6BE9981-A732-40D9-91B9-AC536221320F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6BE9981-A732-40D9-91B9-AC536221320F}.Debug|x86.Build.0 = Debug|Win32
+		{B6BE9981-A732-40D9-91B9-AC536221320F}.Release|x86.ActiveCfg = Release|Win32
+		{B6BE9981-A732-40D9-91B9-AC536221320F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
